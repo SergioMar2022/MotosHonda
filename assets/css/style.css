@@ -1,0 +1,62 @@
+body{
+    background: url(../img/Honda-motorcycle-front-view-hazy_2560x1600.jpg);
+    background-repeat: no-repeat fixed;
+    background-size: cover;
+
+}
+
+.col-sm-4 {
+    color:rgb(12, 10, 10);
+    font-size: 30px;
+    line-height: 30px;
+    text-align:left;
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #0c0707;
+
+}
+h1{
+    margin: 10px;
+}
+
+.formulario{
+    width: 400px;
+    margin: auto;
+}
+
+
+
+
+.titulo {
+    color:rgb(20, 18, 18);
+    font-size: 90px;
+    font-weight: 600;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+
+}
+.texto {
+    color:rgb(14, 11, 11);
+    font-size: 30px;
+    line-height: 30px;
+    text-align:left;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.listas {
+    color:rgb(14, 11, 11);
+    font-size: 30px;
+    line-height: 30px;
+    text-align:left;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
